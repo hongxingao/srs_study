@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.8.120”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  test_gdb.cpp
+F:\study_project\srs_study\srs_test\test_gdb.cpp(7,6): warning : unused variable ‘a’ [-Wunused-variable]
+F:\study_project\srs_study\srs_test\test_gdb.cpp(7,6): warning :   int a = 1;
+F:\study_project\srs_study\srs_test\test_gdb.cpp(7,6): warning :       ^
+  正在链接对象
+  srs_test.vcxproj -> F:\study_project\srs_study\srs_test\bin\x64\Debug\srs_test.out

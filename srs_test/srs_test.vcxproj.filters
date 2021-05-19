@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{e14fb647-93fb-4def-93b2-9cf779f69c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\test">
+      <UniqueIdentifier>{8a52326f-7f15-4b55-98c7-fe3f28640650}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test_gdb.cpp">
+      <Filter>src\test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

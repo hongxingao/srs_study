@@ -1,0 +1,624 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.8.120”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  srs_app_async_call.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_bandwidth.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_caster_flv.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_config.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_coworkers.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_dash.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_dvr.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_edge.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_empty.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_encoder.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_ffmpeg.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_forward.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_fragment.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_gb28181.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_gb28181_sip.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_hds.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_heartbeat.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_hls.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_hourglass.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_api.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_client.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_hooks.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_static.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_http_stream.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_hybrid.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_ingest.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_listener.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_log.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_mpegts_udp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_ng_exec.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_pithy_print.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_process.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_recv_thread.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_refer.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_reload.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_api.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_codec.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_dtls.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_jitbuffer.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_queue.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_sdp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_server.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtc_source.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtmp_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_rtsp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_security.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_server.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_sip.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_source.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_st.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_statistic.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_threads.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_app_utility.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_core.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_core_autofree.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_core_performance.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_core_time.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_core_version3.cpp
+  srs_core_version4.cpp
+  srs_core_version5.cpp
+  srs_kernel_aac.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_balance.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_buffer.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_codec.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_consts.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_error.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_file.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_flv.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_io.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_kbps.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_log.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_mp3.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_mp4.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_rtc_rtcp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_rtc_rtp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_stream.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_ts.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_kernel_utility.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_main_ingest_hls.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_main_mp4_parser.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_main_server.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_http_stack.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_amf0.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_format.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_io.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_json.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_kbps.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_stream.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_protocol_utility.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_raw_avc.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_rtc_stun_stack.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_rtmp_handshake.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_rtmp_msg_array.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_rtmp_stack.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_rtsp_stack.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_http_client.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_http_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_log.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_rtmp_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_st.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_service_utility.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srt_conn.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srt_data.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srt_handle.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srt_server.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srt_to_rtmp.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  ts_demux.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  ts_demux_test.cpp
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : srs_auto_headers.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :  #include <srs_auto_headers.hpp>
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\core\srs_core.hpp(31,32): error : compilation terminated.
+  srs_utest.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest.cpp(24,25): error : srs_utest.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest.cpp(24,25): error :  #include <srs_utest.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest.cpp(24,25): error :                          ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest.cpp(24,25): error : compilation terminated.
+  srs_utest_amf0.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_amf0.cpp(23,30): error : srs_utest_amf0.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_amf0.cpp(23,30): error :  #include <srs_utest_amf0.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_amf0.cpp(23,30): error :                               ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_amf0.cpp(23,30): error : compilation terminated.
+  srs_utest_app.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_app.cpp(23,29): error : srs_utest_app.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_app.cpp(23,29): error :  #include <srs_utest_app.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_app.cpp(23,29): error :                              ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_app.cpp(23,29): error : compilation terminated.
+  srs_utest_avc.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_avc.cpp(23,29): error : srs_utest_avc.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_avc.cpp(23,29): error :  #include <srs_utest_avc.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_avc.cpp(23,29): error :                              ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_avc.cpp(23,29): error : compilation terminated.
+  srs_utest_config.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_config.cpp(23,32): error : srs_utest_config.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_config.cpp(23,32): error :  #include <srs_utest_config.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_config.cpp(23,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_config.cpp(23,32): error : compilation terminated.
+  srs_utest_core.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_core.cpp(23,30): error : srs_utest_core.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_core.cpp(23,30): error :  #include <srs_utest_core.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_core.cpp(23,30): error :                               ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_core.cpp(23,30): error : compilation terminated.
+  srs_utest_http.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_http.cpp(23,30): error : srs_utest_http.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_http.cpp(23,30): error :  #include <srs_utest_http.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_http.cpp(23,30): error :                               ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_http.cpp(23,30): error : compilation terminated.
+  srs_utest_kernel.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_kernel.cpp(23,32): error : srs_utest_kernel.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_kernel.cpp(23,32): error :  #include <srs_utest_kernel.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_kernel.cpp(23,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_kernel.cpp(23,32): error : compilation terminated.
+  srs_utest_mp4.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_mp4.cpp(23,29): error : srs_utest_mp4.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_mp4.cpp(23,29): error :  #include <srs_utest_mp4.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_mp4.cpp(23,29): error :                              ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_mp4.cpp(23,29): error : compilation terminated.
+  srs_utest_protocol.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_protocol.cpp(23,34): error : srs_utest_protocol.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_protocol.cpp(23,34): error :  #include <srs_utest_protocol.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_protocol.cpp(23,34): error :                                   ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_protocol.cpp(23,34): error : compilation terminated.
+  srs_utest_reload.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_reload.cpp(24,32): error : srs_utest_reload.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_reload.cpp(24,32): error :  #include <srs_utest_reload.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_reload.cpp(24,32): error :                                 ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_reload.cpp(24,32): error : compilation terminated.
+  srs_utest_rtc.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtc.cpp(23,29): error : srs_utest_rtc.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtc.cpp(23,29): error :  #include <srs_utest_rtc.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtc.cpp(23,29): error :                              ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtc.cpp(23,29): error : compilation terminated.
+  srs_utest_rtmp.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtmp.cpp(23,30): error : srs_utest_rtmp.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtmp.cpp(23,30): error :  #include <srs_utest_rtmp.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtmp.cpp(23,30): error :                               ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_rtmp.cpp(23,30): error : compilation terminated.
+  srs_utest_service.cpp
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_service.cpp(23,33): error : srs_utest_service.hpp: No such file or directory
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_service.cpp(23,33): error :  #include <srs_utest_service.hpp>
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_service.cpp(23,33): error :                                  ^
+F:\study_project\srs_study\srs_pro\src\utest\srs_utest_service.cpp(23,33): error : compilation terminated.

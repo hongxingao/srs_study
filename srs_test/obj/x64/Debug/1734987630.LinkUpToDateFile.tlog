@@ -1,0 +1,1 @@
+g++ -o "/root/projects/srs_test/bin/x64/Debug/srs_test.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/srs_test/obj/x64/Debug/test_gdb.o
